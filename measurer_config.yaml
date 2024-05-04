@@ -1,0 +1,44 @@
+
+
+# be
+debug: False
+  # False
+training: True
+
+
+ctrl:
+  # MODE:开启视频(video)/相机(camera)
+  # RECORDING:是否录制预测结果视频
+  # SENDING:发送小地图信息(开启子线程)
+  # SAVE:隔30帧保存图片(原图 + 结果图)
+  MODE: 'camera'
+  DETECT: True
+  LAST_ARMOR: True
+  RECORDING: True
+  HIGHWAY: True
+  GUI: True
+  ANCHOR: False # True
+
+  SENDING: True
+  RECEIVING: False
+
+  MAP: False
+  ALARM: False
+  CALIB: False
+
+  FILE_READ: False
+  FILE_WRITE: False
+  SAVE_CSV: False
+  CHESSBOARD: False
+
+zone:
+  LOAD_ZONE: True
+  SAVE_ZONE: False
+
+video:
+  bin_video_root: './video'
+  mon_video: './video/highway.mp4'
+
+ui:
+  image_w: 1280
+  image_h: 640

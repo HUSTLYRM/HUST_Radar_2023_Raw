@@ -1,0 +1,74 @@
+
+
+# be
+debug: False
+  # False
+training: False
+
+
+ctrl:
+  # MODE:开启视频(video)/相机(camera)
+  # RECORDING:是否录制预测结果视频
+  # SENDING:发送小地图信息(开启子线程)
+  # SAVE:隔30帧保存图片(原图 + 结果图)
+  MODE: 'camera'
+  DETECT: True
+  LAST_ARMOR: True
+  RECORDING: True
+  HIGHWAY: False # True
+  GUI: True
+  ANCHOR: True
+
+  SENDING: True
+  RECEIVING: False
+
+  MAP: False
+  ALARM: False
+  CALIB: False
+
+  FILE_READ: False
+  FILE_WRITE: False
+  SAVE_CSV: False
+  SAVE_IMG: False
+
+  CHESSBOARD: False
+
+zone:
+  LOAD_ZONE: False
+  SAVE_ZONE: False
+
+video:
+  bin_video_root: './video'
+  mon_video: './video/highway.mp4'
+
+# './weights/yolov8/with_sod_yolov8l_epoch140_16_640_adam_half_0705_.pt'
+# './weights/yolov8/best0427_74epoch.pt'
+
+weights:
+  yolov8: './weights/yolov8/0801_sumup_80.pt'
+  #
+  # './weights/yolov8/0719_without_class_5_1280_SGD_best.pt'
+  # './weights/yolov8/with_sod_epoch90_yolov8m_1280_best.pt'
+  # './weights/yolov8/0718_without_class_5_1280_SGD_epoch44.pt'
+  # './weights/yolov8/with_sod_epoch64_yolov8m_1280.pt'
+  # './weights/yolov8/with_sod_yolov8s_epoch50_1280.pt'
+  # './weights/yolov8/with_sod_yolov8l_epoch140_16_640_adam_half_0705_.pt'
+  #'./weights/yolov8/best_7_16_1280.pt'
+  # './weights/yolov8/with_sod_yolov8l_epoch140_16_640_adam_half_0705_.pt'
+  # car: './weights/l_no_extra.pt'
+  # armor: './weights/100.pth'
+
+hyper:
+  # 超参设置
+  conf_thres: 0.65
+  iou_thres: 0.6
+  imgsz: [640, 640]
+  image_w: 1280
+  image_h: 640
+  classes: ~ # null
+  agnostic_nms: False
+  multi_label: True
+
+ui:
+  image_w: 1280
+  image_h: 640

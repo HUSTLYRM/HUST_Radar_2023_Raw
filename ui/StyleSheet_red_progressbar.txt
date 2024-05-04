@@ -1,0 +1,9 @@
+QProgressBar{
+	color:rgb(255, 255, 127);
+	background-color:black;
+    border-style:none;
+    text-align:center;
+}
+QProgressBar::Chunk{
+	background-color:rgb(255,0,0);
+}

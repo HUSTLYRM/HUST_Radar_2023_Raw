@@ -1,0 +1,1370 @@
+initializing...
+[main] modules imported
+COM3 - Silicon Labs CP210x USB to UART Bridge (COM3)
+COM7 - ELTIMA Virtual Serial Port (COM7->COM8)
+COM8 - ELTIMA Virtual Serial Port (COM8->COM7)
+
+Loading binocular camera
+Find 3 devices!
+
+u3v device: [0]
+device model name: MV-CA013-20UC
+user serial number: 00C33080963
+
+u3v device: [1]
+device model name: MV-CA013-20UC
+user serial number: 00C33080957
+
+u3v device: [2]
+device model name: MV-CA013-20UC
+user serial number: 00C33080959
+True
+True
+Done
+
+Loading matching model
+Done
+
+
+Loading long-focal camera
+Find 3 devices!
+
+u3v device: [0]
+device model name: MV-CA013-20UC
+user serial number: 00C33080963
+
+u3v device: [1]
+device model name: MV-CA013-20UC
+user serial number: 00C33080957
+
+u3v device: [2]
+device model name: MV-CA013-20UC
+user serial number: 00C33080959
+True
+Done
+[camera] get one frame: Width[1280], Height[640], nFrameNum[0], timestamp(high)[4], timestamp(low)[4263150896]
+multi_zone []
+按照逆时针或顺时针框定区域, 且必须是凸图形。若图样非凸, 需用多个凸图形组合而成
+timeout
+Zone Loaded: highway.txt
+[[(625, 16), (1161, 239), (739, 758), (85, 468)]]
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[130], timestamp(high)[20], timestamp(low)[3884609710]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[132], timestamp(high)[20], timestamp(low)[4005138910]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[133], timestamp(high)[20], timestamp(low)[4065403520]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[135], timestamp(high)[20], timestamp(low)[4185932720]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[137], timestamp(high)[21], timestamp(low)[11494634]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[138], timestamp(high)[21], timestamp(low)[71759224]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[140], timestamp(high)[21], timestamp(low)[192288434]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[142], timestamp(high)[21], timestamp(low)[312817634]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[144], timestamp(high)[21], timestamp(low)[433346834]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[145], timestamp(high)[21], timestamp(low)[493611444]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[147], timestamp(high)[21], timestamp(low)[614140644]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[149], timestamp(high)[21], timestamp(low)[734669844]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[150], timestamp(high)[21], timestamp(low)[794934444]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[152], timestamp(high)[21], timestamp(low)[915463644]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[154], timestamp(high)[21], timestamp(low)[1035992854]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[155], timestamp(high)[21], timestamp(low)[1096257454]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[157], timestamp(high)[21], timestamp(low)[1216786654]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[159], timestamp(high)[21], timestamp(low)[1337315854]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[161], timestamp(high)[21], timestamp(low)[1457845054]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[162], timestamp(high)[21], timestamp(low)[1518109654]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[164], timestamp(high)[21], timestamp(low)[1638638854]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[166], timestamp(high)[21], timestamp(low)[1759168054]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[167], timestamp(high)[21], timestamp(low)[1819432654]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[169], timestamp(high)[21], timestamp(low)[1939961854]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[171], timestamp(high)[21], timestamp(low)[2060491064]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[173], timestamp(high)[21], timestamp(low)[2181020264]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[174], timestamp(high)[21], timestamp(low)[2241284854]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[176], timestamp(high)[21], timestamp(low)[2361814054]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[178], timestamp(high)[21], timestamp(low)[2482343264]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[179], timestamp(high)[21], timestamp(low)[2542607864]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[181], timestamp(high)[21], timestamp(low)[2663137064]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[183], timestamp(high)[21], timestamp(low)[2783666264]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[185], timestamp(high)[21], timestamp(low)[2904195464]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[186], timestamp(high)[21], timestamp(low)[2964460064]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[188], timestamp(high)[21], timestamp(low)[3084989264]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[190], timestamp(high)[21], timestamp(low)[3205518464]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[191], timestamp(high)[21], timestamp(low)[3265783064]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[193], timestamp(high)[21], timestamp(low)[3386312264]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[195], timestamp(high)[21], timestamp(low)[3506841464]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[197], timestamp(high)[21], timestamp(low)[3627370664]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[198], timestamp(high)[21], timestamp(low)[3687635264]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[200], timestamp(high)[21], timestamp(low)[3808164464]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[202], timestamp(high)[21], timestamp(low)[3928693664]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[203], timestamp(high)[21], timestamp(low)[3988958264]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[205], timestamp(high)[21], timestamp(low)[4109487464]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[207], timestamp(high)[21], timestamp(low)[4230016664]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[209], timestamp(high)[22], timestamp(low)[55578568]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[210], timestamp(high)[22], timestamp(low)[115843168]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[212], timestamp(high)[22], timestamp(low)[236372368]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[214], timestamp(high)[22], timestamp(low)[356901568]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[215], timestamp(high)[22], timestamp(low)[417166168]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[217], timestamp(high)[22], timestamp(low)[537695368]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[219], timestamp(high)[22], timestamp(low)[658224568]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[220], timestamp(high)[22], timestamp(low)[718489158]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[222], timestamp(high)[22], timestamp(low)[839018358]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[224], timestamp(high)[22], timestamp(low)[959547558]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[226], timestamp(high)[22], timestamp(low)[1080076758]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[227], timestamp(high)[22], timestamp(low)[1140341358]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[229], timestamp(high)[22], timestamp(low)[1260870558]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[231], timestamp(high)[22], timestamp(low)[1381399758]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[232], timestamp(high)[22], timestamp(low)[1441664358]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[234], timestamp(high)[22], timestamp(low)[1562193558]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[236], timestamp(high)[22], timestamp(low)[1682722758]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[237], timestamp(high)[22], timestamp(low)[1742987358]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[239], timestamp(high)[22], timestamp(low)[1863516558]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[241], timestamp(high)[22], timestamp(low)[1984045758]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[243], timestamp(high)[22], timestamp(low)[2104574948]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[244], timestamp(high)[22], timestamp(low)[2164839548]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[246], timestamp(high)[22], timestamp(low)[2285368748]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[248], timestamp(high)[22], timestamp(low)[2405897938]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[249], timestamp(high)[22], timestamp(low)[2466162548]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[251], timestamp(high)[22], timestamp(low)[2586691738]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[253], timestamp(high)[22], timestamp(low)[2707220938]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[254], timestamp(high)[22], timestamp(low)[2767485528]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[256], timestamp(high)[22], timestamp(low)[2888014728]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[258], timestamp(high)[22], timestamp(low)[3008543928]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[260], timestamp(high)[22], timestamp(low)[3129073118]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[261], timestamp(high)[22], timestamp(low)[3189337728]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[263], timestamp(high)[22], timestamp(low)[3309866918]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[265], timestamp(high)[22], timestamp(low)[3430396118]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[266], timestamp(high)[22], timestamp(low)[3490660718]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[268], timestamp(high)[22], timestamp(low)[3611189918]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[270], timestamp(high)[22], timestamp(low)[3731719108]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[272], timestamp(high)[22], timestamp(low)[3852248308]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[273], timestamp(high)[22], timestamp(low)[3912512908]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[275], timestamp(high)[22], timestamp(low)[4033042108]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[277], timestamp(high)[22], timestamp(low)[4153571298]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[278], timestamp(high)[22], timestamp(low)[4213835898]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[280], timestamp(high)[23], timestamp(low)[39397792]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[282], timestamp(high)[23], timestamp(low)[159926992]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[284], timestamp(high)[23], timestamp(low)[280456182]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[285], timestamp(high)[23], timestamp(low)[340720792]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[287], timestamp(high)[23], timestamp(low)[461249982]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[289], timestamp(high)[23], timestamp(low)[581779182]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[290], timestamp(high)[23], timestamp(low)[642043782]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[292], timestamp(high)[23], timestamp(low)[762572972]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[294], timestamp(high)[23], timestamp(low)[883102172]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[295], timestamp(high)[23], timestamp(low)[943366772]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[297], timestamp(high)[23], timestamp(low)[1063895962]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[299], timestamp(high)[23], timestamp(low)[1184425162]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[301], timestamp(high)[23], timestamp(low)[1304954352]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[302], timestamp(high)[23], timestamp(low)[1365218952]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[304], timestamp(high)[23], timestamp(low)[1485748142]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[306], timestamp(high)[23], timestamp(low)[1606277342]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[307], timestamp(high)[23], timestamp(low)[1666541942]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[309], timestamp(high)[23], timestamp(low)[1787071142]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[311], timestamp(high)[23], timestamp(low)[1907600332]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[313], timestamp(high)[23], timestamp(low)[2028129532]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[314], timestamp(high)[23], timestamp(low)[2088394122]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[316], timestamp(high)[23], timestamp(low)[2208923312]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[318], timestamp(high)[23], timestamp(low)[2329452512]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[319], timestamp(high)[23], timestamp(low)[2389717112]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[321], timestamp(high)[23], timestamp(low)[2510246302]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[323], timestamp(high)[23], timestamp(low)[2630775502]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[324], timestamp(high)[23], timestamp(low)[2691040102]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[326], timestamp(high)[23], timestamp(low)[2811569292]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[328], timestamp(high)[23], timestamp(low)[2932098482]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[330], timestamp(high)[23], timestamp(low)[3052627672]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[331], timestamp(high)[23], timestamp(low)[3112892272]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[333], timestamp(high)[23], timestamp(low)[3233421472]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[335], timestamp(high)[23], timestamp(low)[3353950662]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[336], timestamp(high)[23], timestamp(low)[3414215262]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[338], timestamp(high)[23], timestamp(low)[3534744452]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[340], timestamp(high)[23], timestamp(low)[3655273652]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[342], timestamp(high)[23], timestamp(low)[3775802842]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[343], timestamp(high)[23], timestamp(low)[3836067442]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[345], timestamp(high)[23], timestamp(low)[3956596632]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[347], timestamp(high)[23], timestamp(low)[4077125822]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[348], timestamp(high)[23], timestamp(low)[4137390422]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[350], timestamp(high)[23], timestamp(low)[4257919622]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[352], timestamp(high)[24], timestamp(low)[83481516]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[353], timestamp(high)[24], timestamp(low)[143746116]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[355], timestamp(high)[24], timestamp(low)[264275306]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[357], timestamp(high)[24], timestamp(low)[384804496]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[359], timestamp(high)[24], timestamp(low)[505333686]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[360], timestamp(high)[24], timestamp(low)[565598286]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[362], timestamp(high)[24], timestamp(low)[686127476]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[364], timestamp(high)[24], timestamp(low)[806656676]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[365], timestamp(high)[24], timestamp(low)[866921276]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[367], timestamp(high)[24], timestamp(low)[987450466]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[369], timestamp(high)[24], timestamp(low)[1107979656]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[371], timestamp(high)[24], timestamp(low)[1228508846]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[372], timestamp(high)[24], timestamp(low)[1288773446]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[374], timestamp(high)[24], timestamp(low)[1409302636]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[376], timestamp(high)[24], timestamp(low)[1529831826]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[377], timestamp(high)[24], timestamp(low)[1590096426]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[379], timestamp(high)[24], timestamp(low)[1710625616]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[381], timestamp(high)[24], timestamp(low)[1831154806]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[383], timestamp(high)[24], timestamp(low)[1951684006]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[384], timestamp(high)[24], timestamp(low)[2011948596]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[386], timestamp(high)[24], timestamp(low)[2132477786]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[388], timestamp(high)[24], timestamp(low)[2253006976]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[389], timestamp(high)[24], timestamp(low)[2313271576]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[391], timestamp(high)[24], timestamp(low)[2433800766]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[393], timestamp(high)[24], timestamp(low)[2554329966]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[395], timestamp(high)[24], timestamp(low)[2674859156]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[396], timestamp(high)[24], timestamp(low)[2735123746]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[398], timestamp(high)[24], timestamp(low)[2855652936]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[400], timestamp(high)[24], timestamp(low)[2976182126]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[401], timestamp(high)[24], timestamp(low)[3036446726]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[403], timestamp(high)[24], timestamp(low)[3156975916]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[405], timestamp(high)[24], timestamp(low)[3277505106]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[406], timestamp(high)[24], timestamp(low)[3337769696]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[408], timestamp(high)[24], timestamp(low)[3458298886]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[410], timestamp(high)[24], timestamp(low)[3578828086]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[412], timestamp(high)[24], timestamp(low)[3699357276]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[413], timestamp(high)[24], timestamp(low)[3759621876]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[415], timestamp(high)[24], timestamp(low)[3880151066]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[417], timestamp(high)[24], timestamp(low)[4000680246]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[418], timestamp(high)[24], timestamp(low)[4060944846]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[420], timestamp(high)[24], timestamp(low)[4181474036]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[422], timestamp(high)[25], timestamp(low)[7035930]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[424], timestamp(high)[25], timestamp(low)[127565120]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[425], timestamp(high)[25], timestamp(low)[187829720]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[427], timestamp(high)[25], timestamp(low)[308358910]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[429], timestamp(high)[25], timestamp(low)[428888100]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[430], timestamp(high)[25], timestamp(low)[489152690]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[432], timestamp(high)[25], timestamp(low)[609681880]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[434], timestamp(high)[25], timestamp(low)[730211070]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[435], timestamp(high)[25], timestamp(low)[790475670]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[437], timestamp(high)[25], timestamp(low)[911004860]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[439], timestamp(high)[25], timestamp(low)[1031534050]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[441], timestamp(high)[25], timestamp(low)[1152063240]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[442], timestamp(high)[25], timestamp(low)[1212327830]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[444], timestamp(high)[25], timestamp(low)[1332857020]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[446], timestamp(high)[25], timestamp(low)[1453386210]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[447], timestamp(high)[25], timestamp(low)[1513650810]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[449], timestamp(high)[25], timestamp(low)[1634179990]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[451], timestamp(high)[25], timestamp(low)[1754709190]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[453], timestamp(high)[25], timestamp(low)[1875238380]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[454], timestamp(high)[25], timestamp(low)[1935502960]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[456], timestamp(high)[25], timestamp(low)[2056032150]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[458], timestamp(high)[25], timestamp(low)[2176561350]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[459], timestamp(high)[25], timestamp(low)[2236825940]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[461], timestamp(high)[25], timestamp(low)[2357355130]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[463], timestamp(high)[25], timestamp(low)[2477884320]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[465], timestamp(high)[25], timestamp(low)[2598413510]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[466], timestamp(high)[25], timestamp(low)[2658678100]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[468], timestamp(high)[25], timestamp(low)[2779207290]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[470], timestamp(high)[25], timestamp(low)[2899736470]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[471], timestamp(high)[25], timestamp(low)[2960001070]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[473], timestamp(high)[25], timestamp(low)[3080530260]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[475], timestamp(high)[25], timestamp(low)[3201059450]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[477], timestamp(high)[25], timestamp(low)[3321588640]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[478], timestamp(high)[25], timestamp(low)[3381853230]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[480], timestamp(high)[25], timestamp(low)[3502382420]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[482], timestamp(high)[25], timestamp(low)[3622911600]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[483], timestamp(high)[25], timestamp(low)[3683176200]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[485], timestamp(high)[25], timestamp(low)[3803705390]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[487], timestamp(high)[25], timestamp(low)[3924234580]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[489], timestamp(high)[25], timestamp(low)[4044763760]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[490], timestamp(high)[25], timestamp(low)[4105028350]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[492], timestamp(high)[25], timestamp(low)[4225557550]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[494], timestamp(high)[26], timestamp(low)[51119434]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[495], timestamp(high)[26], timestamp(low)[111384034]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[497], timestamp(high)[26], timestamp(low)[231913214]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[499], timestamp(high)[26], timestamp(low)[352442414]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[500], timestamp(high)[26], timestamp(low)[412706994]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[502], timestamp(high)[26], timestamp(low)[533236184]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[504], timestamp(high)[26], timestamp(low)[653765374]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[506], timestamp(high)[26], timestamp(low)[774294564]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[507], timestamp(high)[26], timestamp(low)[834559154]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[509], timestamp(high)[26], timestamp(low)[955088344]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[511], timestamp(high)[26], timestamp(low)[1075617534]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[512], timestamp(high)[26], timestamp(low)[1135882124]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[514], timestamp(high)[26], timestamp(low)[1256411304]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[516], timestamp(high)[26], timestamp(low)[1376940494]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[517], timestamp(high)[26], timestamp(low)[1437205094]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[519], timestamp(high)[26], timestamp(low)[1557734274]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[521], timestamp(high)[26], timestamp(low)[1678263464]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[523], timestamp(high)[26], timestamp(low)[1798792654]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[524], timestamp(high)[26], timestamp(low)[1859057244]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[526], timestamp(high)[26], timestamp(low)[1979586424]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[528], timestamp(high)[26], timestamp(low)[2100115614]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[529], timestamp(high)[26], timestamp(low)[2160380214]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[531], timestamp(high)[26], timestamp(low)[2280909394]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[533], timestamp(high)[26], timestamp(low)[2401438574]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[535], timestamp(high)[26], timestamp(low)[2521967774]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[536], timestamp(high)[26], timestamp(low)[2582232354]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[538], timestamp(high)[26], timestamp(low)[2702761544]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[540], timestamp(high)[26], timestamp(low)[2823290734]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[541], timestamp(high)[26], timestamp(low)[2883555324]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[543], timestamp(high)[26], timestamp(low)[3004084514]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[545], timestamp(high)[26], timestamp(low)[3124613694]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[547], timestamp(high)[26], timestamp(low)[3245142884]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[548], timestamp(high)[26], timestamp(low)[3305407474]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[550], timestamp(high)[26], timestamp(low)[3425936654]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[552], timestamp(high)[26], timestamp(low)[3546465844]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[553], timestamp(high)[26], timestamp(low)[3606730434]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[555], timestamp(high)[26], timestamp(low)[3727259624]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[557], timestamp(high)[26], timestamp(low)[3847788814]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[558], timestamp(high)[26], timestamp(low)[3908053394]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[560], timestamp(high)[26], timestamp(low)[4028582574]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[562], timestamp(high)[26], timestamp(low)[4149111774]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[564], timestamp(high)[26], timestamp(low)[4269640954]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[565], timestamp(high)[27], timestamp(low)[34938248]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[567], timestamp(high)[27], timestamp(low)[155467438]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[569], timestamp(high)[27], timestamp(low)[275996618]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[570], timestamp(high)[27], timestamp(low)[336261208]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[572], timestamp(high)[27], timestamp(low)[456790398]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[574], timestamp(high)[27], timestamp(low)[577319578]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[576], timestamp(high)[27], timestamp(low)[697848758]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[577], timestamp(high)[27], timestamp(low)[758113358]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[579], timestamp(high)[27], timestamp(low)[878642548]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[581], timestamp(high)[27], timestamp(low)[999171728]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[582], timestamp(high)[27], timestamp(low)[1059436318]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[584], timestamp(high)[27], timestamp(low)[1179965498]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[586], timestamp(high)[27], timestamp(low)[1300494678]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[587], timestamp(high)[27], timestamp(low)[1360759278]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[589], timestamp(high)[27], timestamp(low)[1481288468]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[591], timestamp(high)[27], timestamp(low)[1601817648]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[593], timestamp(high)[27], timestamp(low)[1722346838]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[594], timestamp(high)[27], timestamp(low)[1782611418]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[596], timestamp(high)[27], timestamp(low)[1903140598]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[598], timestamp(high)[27], timestamp(low)[2023669788]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[599], timestamp(high)[27], timestamp(low)[2083934388]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[601], timestamp(high)[27], timestamp(low)[2204463558]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[603], timestamp(high)[27], timestamp(low)[2324992748]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[605], timestamp(high)[27], timestamp(low)[2445521928]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[606], timestamp(high)[27], timestamp(low)[2505786518]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[608], timestamp(high)[27], timestamp(low)[2626315708]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[610], timestamp(high)[27], timestamp(low)[2746844888]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[611], timestamp(high)[27], timestamp(low)[2807109478]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[613], timestamp(high)[27], timestamp(low)[2927638668]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[615], timestamp(high)[27], timestamp(low)[3048167848]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[616], timestamp(high)[27], timestamp(low)[3108432438]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[618], timestamp(high)[27], timestamp(low)[3228961618]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[620], timestamp(high)[27], timestamp(low)[3349490798]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[622], timestamp(high)[27], timestamp(low)[3470019988]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[623], timestamp(high)[27], timestamp(low)[3530284578]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[625], timestamp(high)[27], timestamp(low)[3650813758]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[627], timestamp(high)[27], timestamp(low)[3771342948]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[628], timestamp(high)[27], timestamp(low)[3831607528]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[630], timestamp(high)[27], timestamp(low)[3952136718]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[632], timestamp(high)[27], timestamp(low)[4072665898]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[634], timestamp(high)[27], timestamp(low)[4193195078]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[635], timestamp(high)[27], timestamp(low)[4253459678]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[637], timestamp(high)[28], timestamp(low)[79021562]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[639], timestamp(high)[28], timestamp(low)[199550742]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[640], timestamp(high)[28], timestamp(low)[259815332]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[642], timestamp(high)[28], timestamp(low)[380344512]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[644], timestamp(high)[28], timestamp(low)[500873702]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[646], timestamp(high)[28], timestamp(low)[621402872]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[647], timestamp(high)[28], timestamp(low)[681667472]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[649], timestamp(high)[28], timestamp(low)[802196652]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[651], timestamp(high)[28], timestamp(low)[922725832]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[652], timestamp(high)[28], timestamp(low)[982990422]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[654], timestamp(high)[28], timestamp(low)[1103519602]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[656], timestamp(high)[28], timestamp(low)[1224048782]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[658], timestamp(high)[28], timestamp(low)[1344577962]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[659], timestamp(high)[28], timestamp(low)[1404842562]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[661], timestamp(high)[28], timestamp(low)[1525371742]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[663], timestamp(high)[28], timestamp(low)[1645900922]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[664], timestamp(high)[28], timestamp(low)[1706165502]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[666], timestamp(high)[28], timestamp(low)[1826694692]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[668], timestamp(high)[28], timestamp(low)[1947223872]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[670], timestamp(high)[28], timestamp(low)[2067753052]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[671], timestamp(high)[28], timestamp(low)[2128017652]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[673], timestamp(high)[28], timestamp(low)[2248546822]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[675], timestamp(high)[28], timestamp(low)[2369076012]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[676], timestamp(high)[28], timestamp(low)[2429340592]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[678], timestamp(high)[28], timestamp(low)[2549869782]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[680], timestamp(high)[28], timestamp(low)[2670398952]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[681], timestamp(high)[28], timestamp(low)[2730663552]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[683], timestamp(high)[28], timestamp(low)[2851192732]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[685], timestamp(high)[28], timestamp(low)[2971721912]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[687], timestamp(high)[28], timestamp(low)[3092251092]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[688], timestamp(high)[28], timestamp(low)[3152515682]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[690], timestamp(high)[28], timestamp(low)[3273044862]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[692], timestamp(high)[28], timestamp(low)[3393574042]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[693], timestamp(high)[28], timestamp(low)[3453838632]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[695], timestamp(high)[28], timestamp(low)[3574367812]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[697], timestamp(high)[28], timestamp(low)[3694896992]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[698], timestamp(high)[28], timestamp(low)[3755161582]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[700], timestamp(high)[28], timestamp(low)[3875690762]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[702], timestamp(high)[28], timestamp(low)[3996219942]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[704], timestamp(high)[28], timestamp(low)[4116749122]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[705], timestamp(high)[28], timestamp(low)[4177013712]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[707], timestamp(high)[29], timestamp(low)[2575596]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[709], timestamp(high)[29], timestamp(low)[123104776]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[711], timestamp(high)[29], timestamp(low)[243633956]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[712], timestamp(high)[29], timestamp(low)[303898546]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[714], timestamp(high)[29], timestamp(low)[424427726]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[716], timestamp(high)[29], timestamp(low)[544956896]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[717], timestamp(high)[29], timestamp(low)[605221496]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[719], timestamp(high)[29], timestamp(low)[725750676]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[721], timestamp(high)[29], timestamp(low)[846279846]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[723], timestamp(high)[29], timestamp(low)[966809036]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[724], timestamp(high)[29], timestamp(low)[1027073616]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[726], timestamp(high)[29], timestamp(low)[1147602796]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[728], timestamp(high)[29], timestamp(low)[1268131976]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[729], timestamp(high)[29], timestamp(low)[1328396566]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[731], timestamp(high)[29], timestamp(low)[1448925746]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[733], timestamp(high)[29], timestamp(low)[1569454926]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[735], timestamp(high)[29], timestamp(low)[1689984106]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[736], timestamp(high)[29], timestamp(low)[1750248686]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[738], timestamp(high)[29], timestamp(low)[1870777866]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[740], timestamp(high)[29], timestamp(low)[1991307046]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[742], timestamp(high)[29], timestamp(low)[2111836226]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[743], timestamp(high)[29], timestamp(low)[2172100816]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[745], timestamp(high)[29], timestamp(low)[2292630006]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[747], timestamp(high)[29], timestamp(low)[2413159176]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[748], timestamp(high)[29], timestamp(low)[2473423766]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[750], timestamp(high)[29], timestamp(low)[2593952936]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[752], timestamp(high)[29], timestamp(low)[2714482126]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[753], timestamp(high)[29], timestamp(low)[2774746716]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[755], timestamp(high)[29], timestamp(low)[2895275886]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[757], timestamp(high)[29], timestamp(low)[3015805066]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[759], timestamp(high)[29], timestamp(low)[3136334246]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[760], timestamp(high)[29], timestamp(low)[3196598836]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[762], timestamp(high)[29], timestamp(low)[3317128006]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[764], timestamp(high)[29], timestamp(low)[3437657186]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[765], timestamp(high)[29], timestamp(low)[3497921776]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[767], timestamp(high)[29], timestamp(low)[3618450956]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[769], timestamp(high)[29], timestamp(low)[3738980136]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[770], timestamp(high)[29], timestamp(low)[3799244726]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[772], timestamp(high)[29], timestamp(low)[3919773896]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[774], timestamp(high)[29], timestamp(low)[4040303076]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[776], timestamp(high)[29], timestamp(low)[4160832246]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[777], timestamp(high)[29], timestamp(low)[4221096846]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[779], timestamp(high)[30], timestamp(low)[46658720]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[781], timestamp(high)[30], timestamp(low)[167187910]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[782], timestamp(high)[30], timestamp(low)[227452490]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[784], timestamp(high)[30], timestamp(low)[347981670]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[786], timestamp(high)[30], timestamp(low)[468510840]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[787], timestamp(high)[30], timestamp(low)[528775430]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[789], timestamp(high)[30], timestamp(low)[649304610]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[791], timestamp(high)[30], timestamp(low)[769833790]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[793], timestamp(high)[30], timestamp(low)[890362960]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[794], timestamp(high)[30], timestamp(low)[950627550]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[796], timestamp(high)[30], timestamp(low)[1071156730]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[798], timestamp(high)[30], timestamp(low)[1191685910]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[799], timestamp(high)[30], timestamp(low)[1251950500]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[801], timestamp(high)[30], timestamp(low)[1372479670]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[803], timestamp(high)[30], timestamp(low)[1493008850]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[805], timestamp(high)[30], timestamp(low)[1613538030]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[806], timestamp(high)[30], timestamp(low)[1673802610]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[808], timestamp(high)[30], timestamp(low)[1794331790]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[810], timestamp(high)[30], timestamp(low)[1914860960]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[811], timestamp(high)[30], timestamp(low)[1975125550]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[813], timestamp(high)[30], timestamp(low)[2095654730]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[815], timestamp(high)[30], timestamp(low)[2216183910]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[817], timestamp(high)[30], timestamp(low)[2336713080]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[818], timestamp(high)[30], timestamp(low)[2396977670]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[820], timestamp(high)[30], timestamp(low)[2517506840]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[822], timestamp(high)[30], timestamp(low)[2638036020]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[824], timestamp(high)[30], timestamp(low)[2758565190]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[825], timestamp(high)[30], timestamp(low)[2818829790]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[827], timestamp(high)[30], timestamp(low)[2939358960]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[829], timestamp(high)[30], timestamp(low)[3059888140]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[830], timestamp(high)[30], timestamp(low)[3120152720]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[832], timestamp(high)[30], timestamp(low)[3240681900]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[834], timestamp(high)[30], timestamp(low)[3361211070]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[835], timestamp(high)[30], timestamp(low)[3421475670]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[837], timestamp(high)[30], timestamp(low)[3542004840]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[839], timestamp(high)[30], timestamp(low)[3662534020]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[841], timestamp(high)[30], timestamp(low)[3783063190]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[842], timestamp(high)[30], timestamp(low)[3843327780]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[844], timestamp(high)[30], timestamp(low)[3963856950]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[846], timestamp(high)[30], timestamp(low)[4084386120]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[847], timestamp(high)[30], timestamp(low)[4144650710]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[849], timestamp(high)[30], timestamp(low)[4265179890]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[851], timestamp(high)[31], timestamp(low)[90741774]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[853], timestamp(high)[31], timestamp(low)[211270944]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[854], timestamp(high)[31], timestamp(low)[271535534]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[856], timestamp(high)[31], timestamp(low)[392064704]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[858], timestamp(high)[31], timestamp(low)[512593884]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[859], timestamp(high)[31], timestamp(low)[572858464]
+0.0
+[left_camera] no data[0x80000007]
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[861], timestamp(high)[31], timestamp(low)[693387644]
+0.0
+[left_camera] get one frame: Width[1280], Height[640], nFrameNum[0], timestamp(high)[30], timestamp(low)[2974892190]
+0.0
+[right_camera] get one frame: Width[1280], Height[640], nFrameNum[862], timestamp(high)[31], timestamp(low)[753652224]
+0.0
+(640, 1280, 3)
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
